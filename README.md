@@ -88,5 +88,14 @@ Every contribution in this repository represents a step toward becoming a better
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arihantshukla98/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arihantshukla98/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arihantshukla98/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arihantshukla98/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
