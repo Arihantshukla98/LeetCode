@@ -51,6 +51,7 @@ Every contribution in this repository represents a step toward becoming a better
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arihantshukla98/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Arihantshukla98/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arihantshukla98/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Arihantshukla98/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -89,6 +90,7 @@ Every contribution in this repository represents a step toward becoming a better
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arihantshukla98/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arihantshukla98/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arihantshukla98/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -98,4 +100,8 @@ Every contribution in this repository represents a step toward becoming a better
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arihantshukla98/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arihantshukla98/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
