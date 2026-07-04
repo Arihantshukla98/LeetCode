@@ -116,11 +116,13 @@ Every contribution in this repository represents a step toward becoming a better
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arihantshukla98/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arihantshukla98/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arihantshukla98/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arihantshukla98/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arihantshukla98/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +138,7 @@ Every contribution in this repository represents a step toward becoming a better
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arihantshukla98/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arihantshukla98/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Arihantshukla98/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -147,4 +150,8 @@ Every contribution in this repository represents a step toward becoming a better
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Arihantshukla98/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arihantshukla98/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
